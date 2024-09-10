@@ -1,0 +1,7 @@
+{
+  "amountMin": 0.01,
+  "amountMax": 0.03,
+  "waitTimeMin": 10,
+  "waitTimeMax": 11,
+  "gasLimit": 310000
+}
